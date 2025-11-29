@@ -79,6 +79,66 @@
       "qty": 1,
       "total": 5401,
       "createdAt": "2025-11-28T16:41:17.290Z"
+    },
+    {
+      "id": 1764407238263,
+      "userId": 6501087981,
+      "username": "csfastcell",
+      "type": "saldo",
+      "productName": "CHATGPT BUSINES",
+      "qty": 8,
+      "total": 36000,
+      "createdAt": "2025-11-29T09:07:18.263Z"
+    },
+    {
+      "id": 1764407286628,
+      "userId": 6501087981,
+      "username": "csfastcell",
+      "type": "saldo",
+      "productName": "CHATGPT BUSINES",
+      "qty": 4,
+      "total": 18000,
+      "createdAt": "2025-11-29T09:08:06.628Z"
+    },
+    {
+      "id": 1764408469777,
+      "userId": 7476499296,
+      "username": "cleeron",
+      "type": "qris",
+      "productName": "CHATGPT BUSINES",
+      "qty": 4,
+      "total": 20130,
+      "createdAt": "2025-11-29T09:27:49.777Z"
+    },
+    {
+      "id": 1764419918533,
+      "userId": 6501087981,
+      "username": "csfastcell",
+      "type": "saldo",
+      "productName": "CHATGPT BUSINES",
+      "qty": 1,
+      "total": 4500,
+      "createdAt": "2025-11-29T12:38:38.533Z"
+    },
+    {
+      "id": 1764421610321,
+      "userId": 6501087981,
+      "username": "csfastcell",
+      "type": "saldo",
+      "productName": "CHATGPT BUSINES",
+      "qty": 4,
+      "total": 18000,
+      "createdAt": "2025-11-29T13:06:50.321Z"
+    },
+    {
+      "id": 1764421627927,
+      "userId": 6501087981,
+      "username": "csfastcell",
+      "type": "saldo",
+      "productName": "CHATGPT BUSINES FULL GARANSI",
+      "qty": 3,
+      "total": 54000,
+      "createdAt": "2025-11-29T13:07:07.927Z"
     }
   ]
 }

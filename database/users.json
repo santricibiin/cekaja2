@@ -126,6 +126,12 @@
       "balance": 0,
       "joinedAt": "2025-11-26T09:39:10.418Z"
     },
+    "1226579764": {
+      "id": 1226579764,
+      "username": "tsxlt",
+      "balance": 0,
+      "joinedAt": "2025-11-29T09:55:34.617Z"
+    },
     "1251110730": {
       "id": 1251110730,
       "username": "alifmiaw",
@@ -189,7 +195,7 @@
     "6501087981": {
       "id": 6501087981,
       "username": "csfastcell",
-      "balance": 461000,
+      "balance": 330500,
       "joinedAt": "2025-11-23T13:56:06.225Z"
     },
     "5018858575": {
@@ -473,6 +479,24 @@
       "username": "Kebalcorwod",
       "balance": 0,
       "joinedAt": "2025-11-28T17:20:34.391Z"
+    },
+    "8005821151": {
+      "id": 8005821151,
+      "username": "gaboetbgtt",
+      "balance": 0,
+      "joinedAt": "2025-11-29T04:41:41.117Z"
+    },
+    "7030021318": {
+      "id": 7030021318,
+      "username": "hidupdikampung",
+      "balance": 0,
+      "joinedAt": "2025-11-29T05:01:16.035Z"
+    },
+    "7476499296": {
+      "id": 7476499296,
+      "username": "cleeron",
+      "balance": 0,
+      "joinedAt": "2025-11-29T09:27:01.007Z"
     }
   }
 }

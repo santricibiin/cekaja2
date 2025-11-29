@@ -457,57 +457,193 @@
       "id": 1764340151388.2957,
       "productCode": "chatgptbs",
       "detail": "terry1030@xuchuyen.com : terusingat.321",
-      "status": "available",
-      "addedAt": "2025-11-28T14:29:11.388Z"
+      "status": "sold",
+      "addedAt": "2025-11-28T14:29:11.388Z",
+      "soldAt": "2025-11-29T09:07:18.261Z"
     },
     {
       "id": 1764340151389.2139,
       "productCode": "chatgptbs",
       "detail": "dmart@hotrokh.com : terusingat.321",
-      "status": "available",
-      "addedAt": "2025-11-28T14:29:11.389Z"
+      "status": "sold",
+      "addedAt": "2025-11-28T14:29:11.389Z",
+      "soldAt": "2025-11-29T09:07:18.261Z"
     },
     {
       "id": 1764351836784.835,
       "productCode": "chatgptbs",
       "detail": "ahersua@remaild.com : terusingat.321",
-      "status": "available",
-      "addedAt": "2025-11-28T17:43:56.784Z"
+      "status": "sold",
+      "addedAt": "2025-11-28T17:43:56.784Z",
+      "soldAt": "2025-11-29T09:07:18.261Z"
     },
     {
       "id": 1764351836785.3494,
       "productCode": "chatgptbs",
       "detail": "insiderz@aiqoe.com : terusingat.321",
-      "status": "available",
-      "addedAt": "2025-11-28T17:43:56.785Z"
+      "status": "sold",
+      "addedAt": "2025-11-28T17:43:56.785Z",
+      "soldAt": "2025-11-29T09:07:18.261Z"
     },
     {
       "id": 1764351836785.1812,
       "productCode": "chatgptbs",
       "detail": "irinaklimanova2010@uddyokta.com : terusingat.321",
-      "status": "available",
-      "addedAt": "2025-11-28T17:43:56.785Z"
+      "status": "sold",
+      "addedAt": "2025-11-28T17:43:56.785Z",
+      "soldAt": "2025-11-29T09:07:18.261Z"
     },
     {
       "id": 1764351836786.966,
       "productCode": "chatgptbs",
       "detail": "jannoba@eliotkids.com : terusingat.321",
-      "status": "available",
-      "addedAt": "2025-11-28T17:43:56.786Z"
+      "status": "sold",
+      "addedAt": "2025-11-28T17:43:56.786Z",
+      "soldAt": "2025-11-29T09:07:18.261Z"
     },
     {
       "id": 1764351836786.0916,
       "productCode": "chatgptbs",
       "detail": "ekjrtf@gmailot.com : terusingat.321",
-      "status": "available",
-      "addedAt": "2025-11-28T17:43:56.786Z"
+      "status": "sold",
+      "addedAt": "2025-11-28T17:43:56.786Z",
+      "soldAt": "2025-11-29T09:07:18.261Z"
     },
     {
       "id": 1764351836786.4324,
       "productCode": "chatgptbs",
       "detail": "tatarinxxx1989@0411cs.com : terusingat.321",
-      "status": "available",
-      "addedAt": "2025-11-28T17:43:56.786Z"
+      "status": "sold",
+      "addedAt": "2025-11-28T17:43:56.786Z",
+      "soldAt": "2025-11-29T09:07:18.261Z"
+    },
+    {
+      "id": 1764407267861.7393,
+      "productCode": "chatgptbs",
+      "detail": "ahersua@remaild.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T09:07:47.861Z",
+      "soldAt": "2025-11-29T09:08:06.628Z"
+    },
+    {
+      "id": 1764407267861.4153,
+      "productCode": "chatgptbs",
+      "detail": "insiderz@aiqoe.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T09:07:47.861Z",
+      "soldAt": "2025-11-29T09:08:06.628Z"
+    },
+    {
+      "id": 1764407267862.1802,
+      "productCode": "chatgptbs",
+      "detail": "irinaklimanova2010@uddyokta.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T09:07:47.862Z",
+      "soldAt": "2025-11-29T09:08:06.628Z"
+    },
+    {
+      "id": 1764407267863.334,
+      "productCode": "chatgptbs",
+      "detail": "jannoba@eliotkids.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T09:07:47.863Z",
+      "soldAt": "2025-11-29T09:08:06.628Z"
+    },
+    {
+      "id": 1764408010593.937,
+      "productCode": "chatgptbs",
+      "detail": "ahersua@remaild.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T09:20:10.593Z",
+      "soldAt": "2025-11-29T09:27:49.775Z"
+    },
+    {
+      "id": 1764408010594.0193,
+      "productCode": "chatgptbs",
+      "detail": "insiderz@aiqoe.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T09:20:10.594Z",
+      "soldAt": "2025-11-29T09:27:49.775Z"
+    },
+    {
+      "id": 1764408010594.8591,
+      "productCode": "chatgptbs",
+      "detail": "irinaklimanova2010@uddyokta.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T09:20:10.594Z",
+      "soldAt": "2025-11-29T09:27:49.775Z"
+    },
+    {
+      "id": 1764408010595.6064,
+      "productCode": "chatgptbs",
+      "detail": "jannoba@eliotkids.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T09:20:10.595Z",
+      "soldAt": "2025-11-29T09:27:49.775Z"
+    },
+    {
+      "id": 1764408214104.7832,
+      "productCode": "chatgptbs2",
+      "detail": "ekjrtf@gmailot.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T09:23:34.104Z",
+      "soldAt": "2025-11-29T13:07:07.926Z"
+    },
+    {
+      "id": 1764408214104.3381,
+      "productCode": "chatgptbs2",
+      "detail": "tatarinxxx1989@0411cs.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T09:23:34.104Z",
+      "soldAt": "2025-11-29T13:07:07.926Z"
+    },
+    {
+      "id": 1764408214105.379,
+      "productCode": "chatgptbs2",
+      "detail": "hxoktf@scatterteam.com :terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T09:23:34.105Z",
+      "soldAt": "2025-11-29T13:07:07.926Z"
+    },
+    {
+      "id": 1764419368727.0232,
+      "productCode": "chatgptbs",
+      "detail": "rugger575@tmailnesia.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T12:29:28.727Z",
+      "soldAt": "2025-11-29T12:38:38.533Z"
+    },
+    {
+      "id": 1764419368727.1985,
+      "productCode": "chatgptbs",
+      "detail": "tjw6@nutrijoayo.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T12:29:28.727Z",
+      "soldAt": "2025-11-29T13:06:50.320Z"
+    },
+    {
+      "id": 1764419368728.4636,
+      "productCode": "chatgptbs",
+      "detail": "pipino@ilustrosonic.com : terusinfat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T12:29:28.728Z",
+      "soldAt": "2025-11-29T13:06:50.320Z"
+    },
+    {
+      "id": 1764419368728.7922,
+      "productCode": "chatgptbs",
+      "detail": "neverbleu@karbonaielite.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T12:29:28.728Z",
+      "soldAt": "2025-11-29T13:06:50.320Z"
+    },
+    {
+      "id": 1764419368729.9702,
+      "productCode": "chatgptbs",
+      "detail": "lyudalyusya@besnetor.com : terusingat.321",
+      "status": "sold",
+      "addedAt": "2025-11-29T12:29:28.729Z",
+      "soldAt": "2025-11-29T13:06:50.320Z"
     }
   ]
 }

@@ -1,3 +1,9 @@
 {
-  "bonus": {}
+  "bonus": {
+    "chatgptbs": {
+      "minPurchase": 5,
+      "bonusAmount": 1,
+      "active": true
+    }
+  }
 }
