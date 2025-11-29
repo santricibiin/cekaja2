@@ -5,19 +5,20 @@
       "categoryName": "canva",
       "code": "canvahead",
       "name": "CANVA PRO HEAD",
-      "price": 3000,
+      "price": 100,
       "detail": "BERGARANSI🔥 BISA INVITE 100+ ORANG🔥⚡",
       "createdAt": "2025-11-23T18:02:15.729Z",
-      "snk": "AKSES EMAIL GENER"
+      "snk": "AKSES EMAIL / OTP CHAT ADMIN YA🙏"
     },
     {
       "id": 1763921437637.0278,
       "categoryName": "chatgpt",
       "code": "chatgptbs",
       "name": "CHATGPT BUSINES",
-      "price": 2000,
-      "detail": "AKUN PRIVATE 1BULAN",
-      "createdAt": "2025-11-23T18:10:37.637Z"
+      "price": 5000,
+      "detail": "AKUN PRIVATE 1BULAN DAN BISA INVITE 5ORANG🔥",
+      "createdAt": "2025-11-23T18:10:37.637Z",
+      "snk": "Akses email di generator.email/emailnya"
     },
     {
       "id": 1763943249839.541,
@@ -60,9 +61,10 @@
       "categoryName": "capcut",
       "code": "cc35",
       "name": "CAPCUT 35D",
-      "price": 5000,
+      "price": 4000,
       "detail": "AKUN PRIVATE ⚡",
-      "createdAt": "2025-11-24T00:19:00.539Z"
+      "createdAt": "2025-11-24T00:19:00.539Z",
+      "snk": "Akses email di generator.email/emailnya"
     }
   ]
 }

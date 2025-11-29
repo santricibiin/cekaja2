@@ -18,17 +18,35 @@
       "balance": 0,
       "joinedAt": "2025-11-27T03:51:21.300Z"
     },
+    "237899540": {
+      "id": 237899540,
+      "username": "Ariskisan",
+      "balance": 0,
+      "joinedAt": "2025-11-28T16:40:12.994Z"
+    },
     "293394755": {
       "id": 293394755,
       "username": "ahmad_hidayat27",
       "balance": 0,
       "joinedAt": "2025-11-25T03:32:52.115Z"
     },
+    "389770285": {
+      "id": 389770285,
+      "username": "layerdouble",
+      "balance": 0,
+      "joinedAt": "2025-11-28T23:27:36.124Z"
+    },
     "425134037": {
       "id": 425134037,
       "username": "amirun_rayan",
       "balance": 0,
       "joinedAt": "2025-11-25T22:31:20.346Z"
+    },
+    "477319843": {
+      "id": 477319843,
+      "username": "Adiqnasy",
+      "balance": 0,
+      "joinedAt": "2025-11-28T02:20:06.484Z"
     },
     "491111393": {
       "id": 491111393,
@@ -72,6 +90,18 @@
       "balance": 0,
       "joinedAt": "2025-11-25T07:21:56.135Z"
     },
+    "1000691950": {
+      "id": 1000691950,
+      "username": "iamimawnx",
+      "balance": 0,
+      "joinedAt": "2025-11-28T08:12:15.240Z"
+    },
+    "1028557063": {
+      "id": 1028557063,
+      "username": "P3RUS4KC0D3",
+      "balance": 0,
+      "joinedAt": "2025-11-28T17:29:53.982Z"
+    },
     "1053404549": {
       "id": 1053404549,
       "username": "adamm021",
@@ -83,6 +113,12 @@
       "username": "kingfastbuy",
       "balance": 0,
       "joinedAt": "2025-11-25T05:52:25.615Z"
+    },
+    "1118867382": {
+      "id": 1118867382,
+      "username": "FauzanMugi",
+      "balance": 0,
+      "joinedAt": "2025-11-28T03:34:34.279Z"
     },
     "1212063779": {
       "id": 1212063779,
@@ -96,11 +132,29 @@
       "balance": 0,
       "joinedAt": "2025-11-26T09:24:43.991Z"
     },
+    "1428308018": {
+      "id": 1428308018,
+      "username": "Junabdulfajar",
+      "balance": 0,
+      "joinedAt": "2025-11-28T07:53:47.143Z"
+    },
+    "1435111789": {
+      "id": 1435111789,
+      "username": "mralien_id",
+      "balance": 0,
+      "joinedAt": "2025-11-28T14:50:22.507Z"
+    },
     "1482652813": {
       "id": 1482652813,
       "username": "pekalongans",
       "balance": 0,
       "joinedAt": "2025-11-26T19:13:35.074Z"
+    },
+    "1579421919": {
+      "id": 1579421919,
+      "username": "danissswara",
+      "balance": 0,
+      "joinedAt": "2025-11-28T07:45:54.145Z"
     },
     "1638630409": {
       "id": 1638630409,
@@ -135,7 +189,7 @@
     "6501087981": {
       "id": 6501087981,
       "username": "csfastcell",
-      "balance": 533000,
+      "balance": 461000,
       "joinedAt": "2025-11-23T13:56:06.225Z"
     },
     "5018858575": {
@@ -371,6 +425,54 @@
       "username": "Zilongnew",
       "balance": 0,
       "joinedAt": "2025-11-27T13:56:32.064Z"
+    },
+    "5439470956": {
+      "id": 5439470956,
+      "username": "x2yxn",
+      "balance": 0,
+      "joinedAt": "2025-11-28T07:48:17.686Z"
+    },
+    "5171079162": {
+      "id": 5171079162,
+      "username": "fatk_06",
+      "balance": 0,
+      "joinedAt": "2025-11-28T08:24:00.097Z"
+    },
+    "6019217122": {
+      "id": 6019217122,
+      "username": "Sutacy",
+      "balance": 0,
+      "joinedAt": "2025-11-28T08:27:21.548Z"
+    },
+    "7247082971": {
+      "id": 7247082971,
+      "username": "luzyaja",
+      "balance": 0,
+      "joinedAt": "2025-11-28T14:02:47.060Z"
+    },
+    "6955804107": {
+      "id": 6955804107,
+      "username": "hajetzu",
+      "balance": 0,
+      "joinedAt": "2025-11-28T14:35:54.270Z"
+    },
+    "6824817983": {
+      "id": 6824817983,
+      "username": "keboturu4",
+      "balance": 0,
+      "joinedAt": "2025-11-28T16:35:31.694Z"
+    },
+    "7619341949": {
+      "id": 7619341949,
+      "username": "xygals",
+      "balance": 0,
+      "joinedAt": "2025-11-28T17:16:27.719Z"
+    },
+    "6598416616": {
+      "id": 6598416616,
+      "username": "Kebalcorwod",
+      "balance": 0,
+      "joinedAt": "2025-11-28T17:20:34.391Z"
     }
   }
 }
